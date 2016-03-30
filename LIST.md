@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="http://lnfnunes.com.br/img/logo404.png" alt="Project 404 Not Found" />
-</p>
+<img src="http://lnfnunes.com.br/img/logo404.png" alt="Project 404 Not Found" />
 
 ## Full list
 
 - [AirBnb](https://www.airbnb.com.br/pagenotfound)
+- [AcuvueProfessional](http://www.acuvueprofessional.com/404)
 - [Blizzard](http://us.blizzard.com/en-us/not-found.html)
 - [Bluegg](http://bluegg.co.uk/404)
 - [Coca Company](http://www.coca-colacompany.com/404/)
